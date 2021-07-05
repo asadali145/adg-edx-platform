@@ -1,0 +1,79 @@
+[main]
+host = https://www.transifex.com
+
+[adg-edx-platform.django-partial]
+file_filter = conf/locale/<lang>/LC_MESSAGES/django-partial.po
+source_file = conf/locale/en/LC_MESSAGES/django-partial.po
+source_lang = en
+type = PO
+trans.ar = conf/locale/ar/LC_MESSAGES/django-partial.po
+
+[adg-edx-platform.django-studio]
+file_filter = conf/locale/<lang>/LC_MESSAGES/django-studio.po
+source_file = conf/locale/en/LC_MESSAGES/django-studio.po
+source_lang = en
+type = PO
+trans.ar = conf/locale/ar/LC_MESSAGES/django-studio.po
+
+[adg-edx-platform.djangojs-partial]
+file_filter = conf/locale/<lang>/LC_MESSAGES/djangojs-partial.po
+source_file = conf/locale/en/LC_MESSAGES/djangojs-partial.po
+source_lang = en
+type = PO
+trans.ar = conf/locale/ar/LC_MESSAGES/djangojs-partial.po
+
+[adg-edx-platform.djangojs-studio]
+file_filter = conf/locale/<lang>/LC_MESSAGES/djangojs-studio.po
+source_file = conf/locale/en/LC_MESSAGES/djangojs-studio.po
+source_lang = en
+type = PO
+trans.ar = conf/locale/ar/LC_MESSAGES/djangojs-studio.po
+
+[adg-edx-platform.djangojs-account-settings-view]
+file_filter = conf/locale/<lang>/LC_MESSAGES/djangojs-account-settings-view.po
+source_file = conf/locale/en/LC_MESSAGES/djangojs-account-settings-view.po
+source_lang = en
+type = PO
+trans.ar = conf/locale/ar/LC_MESSAGES/djangojs-account-settings-view.po
+
+[adg-edx-platform.mako]
+file_filter = conf/locale/<lang>/LC_MESSAGES/mako.po
+source_file = conf/locale/en/LC_MESSAGES/mako.po
+source_lang = en
+type = PO
+trans.ar = conf/locale/ar/LC_MESSAGES/mako.po
+
+[adg-edx-platform.mako-studio]
+file_filter = conf/locale/<lang>/LC_MESSAGES/mako-studio.po
+source_file = conf/locale/en/LC_MESSAGES/mako-studio.po
+source_lang = en
+type = PO
+trans.ar = conf/locale/ar/LC_MESSAGES/mako-studio.po
+
+[adg-edx-platform.underscore]
+file_filter = conf/locale/<lang>/LC_MESSAGES/underscore.po
+source_file = conf/locale/en/LC_MESSAGES/underscore.po
+source_lang = en
+type = PO
+trans.ar = conf/locale/ar/LC_MESSAGES/underscore.po
+
+[adg-edx-platform.underscore-studio]
+file_filter = conf/locale/<lang>/LC_MESSAGES/underscore-studio.po
+source_file = conf/locale/en/LC_MESSAGES/underscore-studio.po
+source_lang = en
+type = PO
+trans.ar = conf/locale/ar/LC_MESSAGES/underscore-studio.po
+
+[adg-edx-platform.wiki]
+file_filter = conf/locale/<lang>/LC_MESSAGES/wiki.po
+source_file = conf/locale/en/LC_MESSAGES/wiki.po
+source_lang = en
+type = PO
+trans.ar = conf/locale/ar/LC_MESSAGES/wiki.po
+
+[adg-edx-platform.edx_proctoring_proctortrack]
+file_filter = conf/locale/<lang>/LC_MESSAGES/edx_proctoring_proctortrack.po
+source_file = conf/locale/en/LC_MESSAGES/edx_proctoring_proctortrack.po
+source_lang = en
+type = PO
+trans.ar = conf/locale/ar/LC_MESSAGES/edx_proctoring_proctortrack.po
